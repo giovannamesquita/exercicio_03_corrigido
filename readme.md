@@ -1,0 +1,1 @@
+Projeto de um site para salao de beleza, feito em casa e atualmente corrigido na escola com HTML, CSS, SASS e JavaScript. 
